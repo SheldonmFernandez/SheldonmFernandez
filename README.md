@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sheldon Fernandez</h1>
 <h3 align="center">A passionate front-end developer and UI designer from Canada</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheldonmfernandez&label=Profile%20views&color=0e75b6&style=flat" alt="sheldonmfernandez" /> </p>
 
